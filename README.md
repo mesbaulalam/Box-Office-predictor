@@ -1,1 +1,1 @@
-# Box Office Predictor
+# Box Office predictor
